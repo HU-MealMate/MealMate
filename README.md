@@ -1,4 +1,4 @@
-# MealMate
+# Milestone 1 - MealMate
 
 ## Table of Contents
 
@@ -38,6 +38,7 @@
 * User can submit a review
 * User can view past reviews of a restaurant
 * User can view resturant's 5 star rating score
+* User can retrieve coupons
 
 **Stretch Features**
 
@@ -54,6 +55,7 @@
   - User can rate the restaurant by a five star rating system
   - User can submit a review
   - User can post pictures of restaurant food to reviews
+  - User can retrive coupons from selected restaurants 
  
 - Restaurant Details 
   - User can view past reviews of a restaurant
@@ -66,20 +68,27 @@
 
 * Home/Stream
 * Search Resturants
-* Restaurant Details
+* Coupon find
 
 **Flow Navigation** (Screen to Screen)
 
-- Stream
-  => Details
-  
-- Details
-  => User Review
-  - ...
+Home screen
+ =>detail view
 
-## Wireframes
+search screen
+=> detail screen
+=>home screen
 
-[Add picture of your hand sketched wireframes in this section]
+coupon screen
+=> verification screen
+=>home screen
+
+
+## Wireframes![image](https://user-images.githubusercontent.com/83426123/196311347-0fa1127f-9361-4914-9938-01afe783b2b0.jpeg)
+
+![](https://i.imgur.com/dKpj8qc.jpg)
+
+
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
