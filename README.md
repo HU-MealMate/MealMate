@@ -84,12 +84,11 @@ coupon screen
 =>home screen
 
 
-## Wireframes![image](https://user-images.githubusercontent.com/83426123/196311347-0fa1127f-9361-4914-9938-01afe783b2b0.jpeg)
+## Wireframes![image]
 
 ![](https://i.imgur.com/dKpj8qc.jpg)
 
 
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
