@@ -30,7 +30,7 @@
 
 ## Product Spec
 
-### 1. User Features (Required and Optional)
+### 1. User Stories (Required and Optional)
 
 **Required Features**
 
