@@ -92,7 +92,7 @@ coupon screen
 
 
 ## Build Process Weekly Update!
-[Kapture 2022-10-24 at 23 19 59](https://user-images.githubusercontent.com/83426123/197674768-c5c11016-f0f7-4144-83b2-b5fcfcdfc730.gif)
+[Sprint 1 GIF](https://user-images.githubusercontent.com/83426123/197674768-c5c11016-f0f7-4144-83b2-b5fcfcdfc730.gif)
 
 
 
