@@ -1,4 +1,4 @@
-# Milestone 1 - MealMate
+# Milestone 2 - MealMate
 
 ## Table of Contents
 
