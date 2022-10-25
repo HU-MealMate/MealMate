@@ -90,6 +90,8 @@ coupon screen
 
 
 
-### [BONUS] Digital Wireframes & Mockups
+### Build Process Weekly Update
+![](https://github.com/MealMate/Your_GIF_Name.gif)
+
 
 ### [BONUS] Interactive Prototype
