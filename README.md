@@ -85,13 +85,13 @@ coupon screen
 =>home screen
 
 
-## Wireframes![image]
+## Wireframes ![image]
 
 ![](https://i.imgur.com/dKpj8qc.jpg)
 
 
 
-### Build Process Weekly Update
+## Build Process Weekly Update
 ![](https://github.com/MealMate/Your_GIF_Name.gif)
 
 
