@@ -33,13 +33,13 @@
 ### 1. User Stories (Required and Optional)
 
 **Required Features**
-[x] User can navigate app pages using bottom tab bar
-[] User can view a feed of resturants nearby
-[] User can rate the restaurant by a five star rating system
-[] User can submit a review
-[] User can view past reviews of a restaurant
-[] User can view resturant's 5 star rating score
-[] User can retrieve coupons
+-[x] User can navigate app pages using bottom tab bar
+-[ ] User can view a feed of resturants nearby
+-[ ] User can rate the restaurant by a five star rating system
+-[ ] User can submit a review
+-[ ] User can view past reviews of a restaurant
+-[ ] User can view resturant's 5 star rating score
+-[ ] User can retrieve coupons
 
 **Stretch Features**
 
