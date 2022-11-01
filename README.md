@@ -33,12 +33,13 @@
 ### 1. User Stories (Required and Optional)
 
 **Required Features**
+- [x] App includes home, search, & coupon pages
 - [x] User can navigate app pages using bottom tab bar
-- [ ] User can view a feed of resturants nearby
+- [x] User can search for resturants
+- [ ] User can view suggested and previously searched resturants
+- [ ] User can view a feed of popular resturants 
 - [ ] User can rate the restaurant by a five star rating system
-- [ ] User can submit a review
 - [ ] User can view past reviews of a restaurant
-- [ ] User can view resturant's 5 star rating score
 - [ ] User can retrieve coupons
 
 **Stretch Features**
@@ -96,4 +97,3 @@ coupon screen
 
 
 
-### [BONUS] Interactive Prototype
