@@ -93,7 +93,8 @@ coupon screen
 
 
 ## Build Process Weekly Update!
-[Sprint 2 GIF](https://submissions.us-east-1.linodeobjects.com/and102/lSk3Cr5m.gif)
+[Sprint 2 GIF](https://user-images.githubusercontent.com/83421930/199151224-b535ef82-fa90-4e39-8c1a-ea339972f862.gif)
+
 
 
 
