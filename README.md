@@ -37,6 +37,7 @@
 - [x] User can navigate app pages using bottom tab bar
 - [x] User can search for resturants
 - [x] User can view a feed of popular resturants 
+- [x] User can access a feed of coupons for popular resturants
 - [ ] User can view suggested and previously searched resturants
 - [ ] User can rate the restaurant by a five star rating system
 - [ ] User can view past reviews of a restaurant
