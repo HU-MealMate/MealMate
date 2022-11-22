@@ -1,4 +1,4 @@
-# Milestone 5 - MealMate
+# Milestone 6 - MealMate
 
 ## Table of Contents
 
@@ -38,10 +38,11 @@
 - [x] User can search for resturants
 - [x] User can view a feed of popular resturants 
 - [x] User can access a feed of coupons for popular resturants
+- [x] User can retrieve coupons
 - [ ] User can view suggested and previously searched resturants
 - [ ] User can rate the restaurant by a five star rating system
-- [ ] User can view past reviews of a restaurant
-- [ ] User can retrieve coupons
+
+
 
 **Stretch Features**
 
@@ -94,7 +95,7 @@ coupon screen
 
 
 ## Build Process Weekly Update!
-[Sprint 3 GIF] (https://user-images.githubusercontent.com/83421930/200481529-70fdae3a-1776-4fd3-92f9-cf81c2563c93.gif)
+[Sprint 5 GIF] (https://user-images.githubusercontent.com/83421930/200481529-70fdae3a-1776-4fd3-92f9-cf81c2563c93.gif)
 
 
 
